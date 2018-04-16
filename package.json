@@ -1,0 +1,19 @@
+{
+  "name": "devopstest",
+  "version": "1.0.0",
+  "description": "Testing Dev Ops setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agilepavan/devOpsTest.git"
+  },
+  "author": "Pavan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agilepavan/devOpsTest/issues"
+  },
+  "homepage": "https://github.com/agilepavan/devOpsTest#readme"
+}
