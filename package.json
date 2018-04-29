@@ -4,8 +4,7 @@
   "description": "Testing Dev Ops setup",
   "main": "index.js",
   "scripts": {
-    "test": "mocha",
-    "lint": "eslint src/**/*.js src/**/*.mjs"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
