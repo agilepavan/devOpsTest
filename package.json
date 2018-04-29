@@ -4,7 +4,7 @@
   "description": "Testing Dev Ops setup",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/agilepavan/devOpsTest#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "eslint-config-airbnb": "^16.1.0",
+    "express": "^4.16.3",
+    "jest": "^22.4.3"
   },
   "devDependencies": {
     "mocha": "^5.1.1",
