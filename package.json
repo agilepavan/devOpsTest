@@ -4,7 +4,7 @@
   "description": "Testing Dev Ops setup",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha try:each"
   },
   "repository": {
     "type": "git",
